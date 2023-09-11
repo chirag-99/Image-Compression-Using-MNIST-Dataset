@@ -8,11 +8,11 @@ The main objective is to compress an image without affecting the quality of imag
 
 TECHNOLOGY USED:
 
-Tensorflow version 2.5.
+TensorFlow version 2.5.
 
-Numpy version 1.2.2.
+NumPy version 1.2.2.
 
-Open CV version 4.20.0.
+OpenCV version 4.20.0.
 
 Matplotlib version 3.3.4
 
